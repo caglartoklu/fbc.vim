@@ -40,7 +40,7 @@ For [Pathogen](https://github.com/tpope/vim-pathogen) users:
     git clone git://github.com/caglartoklu/fbc.vim
 
 For all other users, simply drop the `fbc.vim` file to your
-`plugin` directory.
+`compiler` directory.
 
 In Vim, the compilers are not automatically set unlike file type plugins.
 To achieve that, type the following into your `.vrimrc` file:
