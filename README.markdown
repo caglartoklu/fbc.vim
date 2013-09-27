@@ -69,13 +69,13 @@ The results can be navigated using `:cwindow` command.
 
 Let's take a look to the following code sample:
 
-```visual basic
-Dim c As Integer
-i = 9999999999999
-For i = 1 To 10
-   Print d
-Next
-```
+
+    Dim c As Integer
+    i = 9999999999999
+    For i = 1 To 10
+        Print d
+    Next
+
 
 When this code is compiled with fbc.vim,
 your quickfix window will look like this:
