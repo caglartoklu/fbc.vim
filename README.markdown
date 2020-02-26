@@ -12,7 +12,7 @@ Vim.org page:
 [http://www.vim.org/scripts/script.php?script_id=2691](http://www.vim.org/scripts/script.php?script_id=2691)
 
 If you need a syntax file for the FreeBASIC,
-you can download a syntax file at http://cubaxd.net/?en&p=syntaxfile.
+you can download a syntax file here: https://www.vim.org/scripts/script.php?script_id=4141
 
 
 ## Changelog
