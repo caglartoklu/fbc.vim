@@ -14,6 +14,8 @@ Vim.org page:
 If you need a syntax file for the FreeBASIC,
 you can download a syntax file here: https://www.vim.org/scripts/script.php?script_id=4141
 
+If you want the QuickBASIC like colors, see ![qbcolor.vim](https://github.com/caglartoklu/qbcolor.vim).
+
 
 ## Changelog
 
